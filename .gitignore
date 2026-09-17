@@ -1,0 +1,7 @@
+.browser-test-*/
+.deck-build/
+outputs/
+__pycache__/
+*.pyc
+(9+) Instagram_files/
+(9+) Instagram.html
